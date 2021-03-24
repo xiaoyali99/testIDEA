@@ -27,6 +27,7 @@ class Security1ApplicationTests {
         System.out.println("master添加");
         System.out.println("dev添加");
         System.out.println("猪心");
+        System.out.println("github的更新");
     }
 
 }

@@ -24,6 +24,7 @@ class Security1ApplicationTests {
         }
         list.forEach(item -> System.out.println(item));
         System.out.println("dev分支");
+        System.out.println("master添加");
     }
 
 }

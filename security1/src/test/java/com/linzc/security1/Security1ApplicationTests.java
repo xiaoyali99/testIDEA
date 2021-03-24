@@ -23,6 +23,7 @@ class Security1ApplicationTests {
             System.out.println(a);
         }
         list.forEach(item -> System.out.println(item));
+        System.out.println("dev分支");
     }
 
 }
